@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.33.2",
+    "npm": "^3.10.10",
+    "nightwatch": "^0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-e2e": "nightwatch"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
